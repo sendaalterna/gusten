@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 15,
+    "uniqCompNum": 17,
     "versionPublish": "4.8.1"
   },
   "pages": {
@@ -1383,7 +1383,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "DIAPOSITIVA DE VIDEO",
+                "title": "PRODUCTOS DE CALIDAD",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Diapositiva con fondo de video de youtube y superposición con color. El título y el texto están alineados a la izquierda.",
