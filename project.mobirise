@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "4.8.1"
   },
   "pages": {
@@ -1357,8 +1357,8 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/comprar-pate-3-1-1900x711.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -1391,8 +1391,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/comprar-pate-5-2-1900x711.jpg",
-                "active": true,
-                "showButtons": true,
+                "active": false,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
