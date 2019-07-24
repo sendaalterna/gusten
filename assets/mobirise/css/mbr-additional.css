@@ -2248,46 +2248,37 @@ body {
     text-align: center !important;
   }
 }
-.cid-qZhh8HZQGb {
+.cid-rx91V2NbSR {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/gusten1-2000x1105.jpg");
 }
-.cid-qZhh8HZQGb [class^="socicon-"]:before,
-.cid-qZhh8HZQGb [class*=" socicon-"]:before {
-  line-height: 44px;
+.cid-rx91V2NbSR .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff7d84;
+  margin-left: .5rem;
+  margin-right: .5rem;
 }
-.cid-qZhh8HZQGb .underline {
+.cid-rx91V2NbSR .mbr-iconfont-social:hover {
+  color: #8264fd;
+}
+.cid-rx91V2NbSR .underline {
   padding-top: .5rem;
   padding-bottom: .5rem;
 }
-.cid-qZhh8HZQGb .underline .line {
+.cid-rx91V2NbSR .underline .line {
   width: 5rem;
   height: 3px;
   background: linear-gradient(90deg, #a38dfd, #b10912);
   display: inline-block;
 }
-.cid-qZhh8HZQGb .socicon {
-  color: #5b686b;
-}
-.cid-qZhh8HZQGb .btn-social {
-  border-color: #ff0000;
-  margin-left: .5rem !important;
-  margin-right: .5rem !important;
-}
-.cid-qZhh8HZQGb .btn-social:hover {
-  background: #ff0000;
-}
-.cid-qZhh8HZQGb .btn-social:hover i.socicon {
-  color: #ffffff !important;
+.cid-rx91V2NbSR .social-list a:focus {
+  text-decoration: none;
 }
 @media (max-width: 767px) {
-  .cid-qZhh8HZQGb .btn {
-    font-size: 20px !important;
-  }
-  .cid-qZhh8HZQGb .btn-social {
-    margin-right: .1rem !important;
-    margin-left: .1rem !important;
+  .cid-rx91V2NbSR .mbr-iconfont-social {
+    margin-left: .2rem;
+    margin-right: .2rem;
   }
 }
 .cid-qZhha2HF7e {
