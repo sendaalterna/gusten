@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gusten",
-    "currentPage": "contacto_gusten.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "storem4",
       "title": "StoreM4",
@@ -6800,7 +6800,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/luchaparodi04-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180107-wa0004-1-1024x576.jpg",
@@ -6820,27 +6820,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/luchaparodi04-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/luchaparodi04-1-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/luchaparodi04-800x800.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/luchaparodi04-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/luchaparodi04-2-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/luchaparodi04-800x800.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/luchaparodi04-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/anavitarte08-1-1024x576.jpg",
