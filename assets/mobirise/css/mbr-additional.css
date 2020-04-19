@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
-@import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,700&display=swap);
 
 
 
@@ -2251,7 +2251,7 @@ body {
 .cid-rx91V2NbSR {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/gusten1-2000x1105.jpg");
+  background-image: url("../../../assets/images/gusten1-2000x110511.jpg");
 }
 .cid-rx91V2NbSR .mbr-iconfont-social {
   font-size: 32px;
@@ -4912,6 +4912,119 @@ body {
 .cid-r397TZSzOf .underline {
   color: #ffffff;
 }
+.cid-rWDWKY9651 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rWDWKY9651 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rWDWKY9651 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rWDWKY9651 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rWDWKY9651 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rWDWKY9651 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(180deg, #ffffff, #44f7b3);
+}
+.cid-rWDWKY9651 .icon-focus {
+  display: none;
+}
+.cid-rWDWKY9651 .mbr-gallery-title {
+  transition: all 0.5s ease;
+  position: absolute;
+  text-align: right;
+  display: none;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+  padding: 1rem;
+  color: #000000;
+  font-weight: bold;
+  background: transparent;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+}
+.cid-rWDWKY9651 ul {
+  font-size: 0;
+}
+.cid-rWDWKY9651 .mbr-gallery-filter ul li .btn {
+  border: none;
+  background-color: transparent;
+  color: #232323 !important;
+  padding: 0.5rem 1rem 0.6rem;
+  border-radius: 0;
+  margin: 0!important;
+  transition: padding, border 0s, transform .2s;
+}
+.cid-rWDWKY9651 .mbr-gallery-filter ul li .btn.active {
+  padding: 0.5rem 1rem 0.5rem;
+  border-radius: 0 !important;
+}
+.cid-rWDWKY9651 .mbr-gallery-filter ul li .btn.active:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, #a38dfd, #b10912);
+}
+.cid-rWDWKY9651 .mbr-gallery-filter ul li {
+  padding: 0;
+}
+.cid-rWDWKY9651 .mbr-gallery-item > div:hover .mbr-gallery-title {
+  padding-bottom: 1.5rem;
+  display: block;
+}
+.cid-rWDWKY9651 .mbr-gallery-item > div:hover:before {
+  opacity: 0.8 !important;
+}
+.cid-rWDWKY9651 .underline {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+.cid-rWDWKY9651 .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #a38dfd, #b10912);
+  display: inline-block;
+}
+.cid-rWDWKY9651 .btn {
+  background: none;
+  border-radius: 0 !important;
+}
+.cid-rWDWKY9651 .btn:hover {
+  background: transparent !important;
+}
+.cid-rWDWKY9651 .btn:hover:before {
+  background: transparent !important;
+}
+.cid-rWDWKY9651 .btn:before {
+  background-color: transparent !important;
+}
+.cid-rWDWKY9651 .btn:focus {
+  box-shadow: none;
+}
 .cid-rxqF4FJwvS {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -5028,7 +5141,7 @@ body {
 .cid-qZPPSM9nyv {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/gusten1-2000x1105.jpg");
+  background-image: url("../../../assets/images/gusten1-2000x110511.jpg");
 }
 .cid-qZPPSM9nyv p {
   color: #767676;
@@ -5065,6 +5178,10 @@ body {
   .cid-qZPPSM9nyv .text-content {
     padding: 2rem 1rem;
   }
+}
+.cid-qZPPSM9nyv .mbr-text,
+.cid-qZPPSM9nyv .mbr-section-btn {
+  color: #000000;
 }
 .cid-qZhhbJydRj {
   padding-top: 45px;
@@ -6844,6 +6961,122 @@ body {
   .cid-rxGxQgN9UM .mbr-section-title,
   .cid-rxGxQgN9UM .underline,
   .cid-rxGxQgN9UM .mbr-section-subtitle {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+.cid-rWEhgmho9t {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rWEhgmho9t .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rWEhgmho9t .underline {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+.cid-rWEhgmho9t .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #a38dfd, #b10912);
+  display: inline-block;
+}
+.cid-rWEhgmho9t .image-element {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+}
+.cid-rWEhgmho9t .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-rWEhgmho9t .wrapper {
+  padding: 2rem 1rem 1rem 1rem;
+  background: #bbbbbb;
+}
+.cid-rWEhgmho9t .card-overlay {
+  display: none;
+}
+.cid-rWEhgmho9t .mbr-section-title,
+.cid-rWEhgmho9t .underline,
+.cid-rWEhgmho9t .mbr-section-subtitle {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+@media (min-width: 768px) {
+  .cid-rWEhgmho9t .image-element:hover .card-overlay {
+    opacity: .5;
+    border-bottom-right-radius: 7rem;
+  }
+  .cid-rWEhgmho9t .image-element:hover .wrapper {
+    padding-top: 0;
+    border-bottom-right-radius: 7rem;
+  }
+  .cid-rWEhgmho9t .image-element:hover .wrapper .collapsed-content {
+    transition: opacity 0.5s, max-height 3s;
+    opacity: 1;
+    max-height: 999px;
+    border-bottom-right-radius: 7rem;
+  }
+  .cid-rWEhgmho9t .image-element:hover .wrapper .collapsed-content .mbr-section-btn {
+    border-bottom-right-radius: 7rem;
+  }
+  .cid-rWEhgmho9t .image-element.popup-btn:hover .card-overlay {
+    border-bottom-right-radius: 0 !important;
+  }
+  .cid-rWEhgmho9t .image-element.popup-btn:hover .wrapper {
+    border-bottom-right-radius: 0 !important;
+  }
+  .cid-rWEhgmho9t .image-element.popup-btn:hover .wrapper .collapsed-content {
+    border-bottom-right-radius: 0 !important;
+  }
+  .cid-rWEhgmho9t .image-element.popup-btn:hover .wrapper .collapsed-content .mbr-section-btn {
+    border-bottom-right-radius: 0 !important;
+  }
+  .cid-rWEhgmho9t .wrapper {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    background: transparent;
+  }
+  .cid-rWEhgmho9t .wrapper .collapsed-content {
+    transition: opacity 0.5s, max-height 1s;
+    opacity: 0;
+    max-height: 0px;
+    overflow: hidden;
+  }
+  .cid-rWEhgmho9t .card-overlay {
+    transition: all .5s;
+    opacity: 0;
+    display: block;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rWEhgmho9t .underline .line {
+    height: 2px;
+  }
+  .cid-rWEhgmho9t .card-title,
+  .cid-rWEhgmho9t .underline,
+  .cid-rWEhgmho9t .mbr-text,
+  .cid-rWEhgmho9t .mbr-section-btn,
+  .cid-rWEhgmho9t .mbr-section-subtitle,
+  .cid-rWEhgmho9t .mbr-section-title {
+    text-align: center !important;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rWEhgmho9t .main {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  .cid-rWEhgmho9t .mbr-section-title,
+  .cid-rWEhgmho9t .underline,
+  .cid-rWEhgmho9t .mbr-section-subtitle {
     padding-left: 3rem;
     padding-right: 3rem;
   }
