@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gusten",
-    "currentPage": "recetas_pate_gusten.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "storem4",
       "title": "StoreM4",
@@ -681,12 +681,12 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "5000",
+            "slides__autoplayInterval": "6000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/banner-pate3-886x483.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -703,7 +703,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/banner-pate1-1900x711.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -715,7 +715,7 @@
                 "title": "PRODUCTOS ARTESANALES",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Todos nuestros patés, mousse y derivados del paté están \n<br>realizados de forma artesanal a la <b>usanza francesa</b>.<br>",
+                "text": "elaborados a la <b>usanza francesa</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
