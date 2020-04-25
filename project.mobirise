@@ -5547,7 +5547,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Personajes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5557,7 +5557,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Artistas",
@@ -5573,7 +5573,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Estudios América",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5586,7 +5586,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Personajes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5599,7 +5599,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Personajes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5612,7 +5612,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Personajes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5638,7 +5638,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Personajes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5664,7 +5664,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Personajes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5703,7 +5703,7 @@
                 "active": false
               },
               {
-                "tags": "Artistas",
+                "tags": "Personajes",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5739,7 +5739,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Artistas",
