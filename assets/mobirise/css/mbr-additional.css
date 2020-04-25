@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap);
 
 
 
@@ -22,11 +22,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Poppins', sans-serif;
-  font-size: 4.5rem;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 4.3rem;
 }
 .display-2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
   font-size: 3rem;
 }
 .display-4 {
@@ -48,9 +48,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.6rem;
-    font-size: calc( 2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.44rem;
+    font-size: calc( 2.155rem + (4.3 - 2.155) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.155rem + (4.3 - 2.155) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1957,6 +1957,10 @@ body {
 .cid-qZhh14gC9f .mbr-section-btn {
   color: #232323;
 }
+.cid-qZhh14gC9f .mbr-title,
+.cid-qZhh14gC9f .underline {
+  color: #232323;
+}
 .cid-qZhh2J41p7 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2057,6 +2061,10 @@ body {
     padding-right: 3rem;
   }
 }
+.cid-qZhh2J41p7 .mbr-section-title,
+.cid-qZhh2J41p7 .underline {
+  color: #232323;
+}
 .cid-qZhh4cCjlV {
   padding-top: 90px;
   padding-bottom: 30px;
@@ -2128,6 +2136,9 @@ body {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
   }
+}
+.cid-qZhh4cCjlV .mbr-section-title {
+  color: #232323;
 }
 .cid-rWUu81y92t {
   padding-top: 15px;
@@ -2206,6 +2217,10 @@ body {
     text-align: center !important;
   }
 }
+.cid-qZhh5nCrkF .mbr-title,
+.cid-qZhh5nCrkF .underline {
+  color: #232323;
+}
 .cid-qZhh6JY6zG {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2269,6 +2284,10 @@ body {
     text-align: center !important;
   }
 }
+.cid-qZhh6JY6zG .mbr-title,
+.cid-qZhh6JY6zG .underline {
+  color: #232323;
+}
 .cid-rx91V2NbSR {
   padding-top: 90px;
   padding-bottom: 75px;
@@ -2312,6 +2331,7 @@ body {
 }
 .cid-qZhha2HF7e .mbr-section-title {
   margin-bottom: 1.5em;
+  color: #232323;
 }
 .cid-qZhha2HF7e .input-main {
   width: 99.6%;
@@ -2930,6 +2950,7 @@ body {
 .cid-qZPCXhB64B .mbr-section-title {
   display: inline-block;
   position: relative;
+  color: #232323;
 }
 @media (max-width: 767px) {
   .cid-qZPCXhB64B .container-fluid {
@@ -2997,6 +3018,10 @@ body {
     text-align: center !important;
   }
 }
+.cid-rWLKHZ37ss .mbr-title,
+.cid-rWLKHZ37ss .underline {
+  color: #465052;
+}
 .cid-qZPCqfqLh5 {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3060,6 +3085,10 @@ body {
     text-align: center !important;
   }
 }
+.cid-qZPCqfqLh5 .mbr-title,
+.cid-qZPCqfqLh5 .underline {
+  color: #465052;
+}
 .cid-qZPCrBi1H6 {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3119,6 +3148,10 @@ body {
   .cid-qZPCrBi1H6 .mbr-section-btn {
     text-align: center !important;
   }
+}
+.cid-qZPCrBi1H6 .mbr-title,
+.cid-qZPCrBi1H6 .underline {
+  color: #465052;
 }
 .cid-rWJAy1f4to {
   padding-top: 0px;
@@ -3185,6 +3218,10 @@ body {
     text-align: center !important;
   }
 }
+.cid-rWJAy1f4to .mbr-title,
+.cid-rWJAy1f4to .underline {
+  color: #465052;
+}
 .cid-qZPCsdj6Yc {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3244,6 +3281,10 @@ body {
   .cid-qZPCsdj6Yc .mbr-section-btn {
     text-align: center !important;
   }
+}
+.cid-qZPCsdj6Yc .mbr-title,
+.cid-qZPCsdj6Yc .underline {
+  color: #465052;
 }
 .cid-qZPCpo24E0 {
   padding-top: 0px;
@@ -3307,6 +3348,10 @@ body {
   .cid-qZPCpo24E0 .mbr-section-btn {
     text-align: center !important;
   }
+}
+.cid-qZPCpo24E0 .mbr-title,
+.cid-qZPCpo24E0 .underline {
+  color: #465052;
 }
 .cid-qZPGiL92qo {
   padding-top: 0px;
@@ -3433,6 +3478,10 @@ body {
   .cid-rWKTo83T66 .container-fluid {
     padding: 0 1rem;
   }
+}
+.cid-rWKTo83T66 .mbr-section-title,
+.cid-rWKTo83T66 .underline {
+  color: #465052;
 }
 .cid-rWL4mdO7Kd {
   padding-top: 0px;
