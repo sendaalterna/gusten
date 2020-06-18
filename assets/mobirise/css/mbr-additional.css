@@ -1687,7 +1687,7 @@ section.lazy-placeholder:after {
   background: #f7cd4e;
   background: linear-gradient(135deg, #f7cd4e, #bbbbbb);
   display: block;
-  opacity: 0.8;
+  opacity: 0.9;
   transition: all .3s;
   border-bottom-left-radius: 50%;
 }
@@ -1730,7 +1730,7 @@ section.lazy-placeholder:after {
   opacity: 0;
 }
 .cid-qZhh2J41p7 .popup-btn:hover .mbr-overlay {
-  opacity: 0.8;
+  opacity: 0.9;
   height: 100%;
 }
 .cid-qZhh2J41p7 .popup-btn:hover .mbr-section-btn {
